@@ -26,6 +26,6 @@ RouterBF - это брутфорсер для роутера.  (Инструме
 <br>
 ```cd routerbf```
 <br>
-```python3 -m pip install -r requireemnts.txt```
+```python3 -m pip install -r requirements.txt```
 <br>
 ```python3 main.py```
