@@ -24,6 +24,8 @@ RouterBF - это брутфорсер для роутера.  (Инструме
 
 ```git clone https://github.com/denkus24/routerbf```
 <br>
+```cd routerbf```
+<br>
 ```python3 -m pip install -r requireemnts.txt```
 <br>
 ```python3 main.py```
