@@ -8,7 +8,7 @@ RouterBF - это брутфорсер для роутера.  (Инструме
 ```apt install python```
 <br>
 
-```git clone (link)```
+```git clone https://github.com/denkus24/routerbf```
 <br>
 ```cd routerbf```
 <br>
@@ -22,7 +22,7 @@ RouterBF - это брутфорсер для роутера.  (Инструме
 ```apt-get install python3```
 <br>
 
-```git clone (link)```
+```git clone https://github.com/denkus24/routerbf```
 <br>
 ```python3 -m pip install -r requireemnts.txt```
 <br>
