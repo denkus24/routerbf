@@ -4,17 +4,26 @@ RouterBF - это брутфорсер для роутера.  (Инструме
 ## Установка на Termux
 
 ```apt install git```
+<br>
 ```apt install python```
+<br>
 
 ```git clone (link)```
+<br>
 ```cd routerbf```
+<br>
 ```pip install -r requirements.txt```
+<br>
 ```python main.py```
 
 ## Установка на Kali
-apt-get install git
-apt-get install python3
+```apt-get install git```
+<br>
+```apt-get install python3```
+<br>
 
-git clone (link)
-python3 -m pip install -r requireemnts.txt
-python3 main.py
+```git clone (link)```
+<br>
+```python3 -m pip install -r requireemnts.txt```
+<br>
+```python3 main.py```
